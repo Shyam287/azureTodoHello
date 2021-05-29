@@ -9,7 +9,7 @@ public class TodoController {
 	@GetMapping("/sayHello") 
 	public String sayHello() {
 		
-		return "Hello from todo app again";
+		return "Hello from todo app again2";
 	}
 
 }
